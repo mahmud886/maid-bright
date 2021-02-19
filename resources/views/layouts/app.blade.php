@@ -8,8 +8,6 @@
 
 <body id="bg">
     <div class="page-wraper">
-        <div id="loading-area">
-            <h1 class="ml12">Loading</h1></div>
 
         <!-- header -->
         @include('components.header')
