@@ -19,31 +19,31 @@ Route::get('/', 'BaseController@home')->name('home');
 // Normal Pages
 
 Route::get('/offers', 'BaseController@offers')->name('offers');
-Route::get('/giftcertificates', 'BaseController@giftcertificates')->name('gift-certificates');
+Route::get('/gift-certificates', 'BaseController@giftcertificates')->name('gift-certificates');
 Route::get('/blog', 'BaseController@blog')->name('blog');
 
 // About Us Pages
 
-Route::get('/aboutus/whymaidbright', 'BaseController@whymaidbright')->name('why-maid-bright');
-Route::get('/aboutus/meettheteam', 'BaseController@meettheteam')->name('meet-the-team');
-Route::get('/aboutus/ourtestimonials', 'BaseController@ourtestimonials')->name('our-testimonials');
-Route::get('/aboutus/ourvideos', 'BaseController@ourvideos')->name('ourvideos');
+Route::get('/aboutus/why-maid-bright', 'BaseController@whymaidbright')->name('why-maid-bright');
+Route::get('/aboutus/meet-the-team', 'BaseController@meettheteam')->name('meet-the-team');
+Route::get('/aboutus/our-testimonials', 'BaseController@ourtestimonials')->name('our-testimonials');
+Route::get('/aboutus/our-videos', 'BaseController@ourvideos')->name('ourvideos');
 
 // Cleaning Services Pages
 
-Route::get('/cleaning-services/housekeepingservices', 'BaseController@housekeepingservices')->name('house-keeping-services');
-Route::get('/cleaning-services/recurringcleaning', 'BaseController@recurringcleaning')->name('recurring-cleaning');
-Route::get('/cleaning-services/movingcleaning', 'BaseController@movingcleaning')->name('moving-cleaning');
-Route::get('/cleaning-services/onetimecleaning', 'BaseController@onetimecleaning')->name('one-time-cleaning');
-Route::get('/cleaning-services/apartmentcleaningservices', 'BaseController@apartmentcleaningservices')->name('apartment-cleaning-services');
-Route::get('/cleaning-services/specialcleaning', 'BaseController@specialcleaning')->name('special-cleaning');
-Route::get('/cleaning-services/seasonalcleaning', 'BaseController@seasonalcleaning')->name('seasonal-cleaning');
+Route::get('/cleaning-services/house-keeping-services', 'BaseController@housekeepingservices')->name('house-keeping-services');
+Route::get('/cleaning-services/recurring-cleaning', 'BaseController@recurringcleaning')->name('recurring-cleaning');
+Route::get('/cleaning-services/moving-cleaning', 'BaseController@movingcleaning')->name('moving-cleaning');
+Route::get('/cleaning-services/one-time-cleaning', 'BaseController@onetimecleaning')->name('one-time-cleaning');
+Route::get('/cleaning-services/apartment-cleaning-services', 'BaseController@apartmentcleaningservices')->name('apartment-cleaning-services');
+Route::get('/cleaning-services/special-cleaning', 'BaseController@specialcleaning')->name('special-cleaning');
+Route::get('/cleaning-services/seasonal-cleaning', 'BaseController@seasonalcleaning')->name('seasonal-cleaning');
 
 // Contact Us Pages
 
-Route::get('/contactus/schedulecleaning', 'BaseController@schedulecleaning')->name('schedule-cleaning');
-Route::get('/contactus/requestestimate', 'BaseController@requestestimate')->name('request-estimate');
-Route::get('/contactus/providefeedback', 'BaseController@providefeedback')->name('provide-feedback');
+Route::get('/contactus/schedule-cleaning', 'BaseController@schedulecleaning')->name('schedule-cleaning');
+Route::get('/contactus/request-estimate', 'BaseController@requestestimate')->name('request-estimate');
+Route::get('/contactus/provide-feedback', 'BaseController@providefeedback')->name('provide-feedback');
 Route::get('/contactus/faq', 'BaseController@faq')->name('faq');
 Route::get('/contactus/careers', 'BaseController@careers')->name('careers');
 
