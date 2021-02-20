@@ -91,7 +91,7 @@ ul li a{
 
 }
 .banner-contents{
-    padding-top: 200px;
+    padding-top: 160px;
 }
 .banner-contents-div h1{
     text-align: center;
@@ -101,11 +101,14 @@ ul li a{
     background-color: rgba(12, 12, 12, 0.54);
     border-radius: 30px;
     padding: 20px;
+    width: 700px;
+    margin-left: 180px;
 
 }
 .banner-overlay-color p{
     font-size: 16px;
     line-height: 26px;
+
 }
 .button-div{
     margin-top: 25px;
@@ -129,6 +132,7 @@ ul li a{
     width: 95%;
     margin: 0 auto;
     text-align: center;
+    padding-bottom: 120px;
 
 }
 .single-achivement{
