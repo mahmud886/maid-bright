@@ -4,8 +4,11 @@
 Maid Bangladesh | Home
 @endsection
 
+
 @section('content')
 
-<h1>Page</h1>
+
+<h1>Home</h1>
+
 
 @endsection
