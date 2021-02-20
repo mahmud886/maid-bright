@@ -49,8 +49,10 @@ img{
     color: #000000;
     background-color: #FFE500;
     font-family: 'Roboto', sans-serif;
-    padding: 10px 30px;
+    padding: 10px 218px;
     border-radius: 5px;
+    display: inline-block;
+    border: none;
 }
 .default-button2{
     font-size: 13px;
@@ -59,6 +61,8 @@ img{
     font-family: 'Roboto', sans-serif;
     padding: 10px 20px;
     border-radius: 15px;
+    border: none;
+    font-weight: 500;
 }
 
 ul li{
@@ -73,9 +77,76 @@ ul li a{
 
 /* Header Start */
 
+
+
+/* Banner Start */
+.banner-area{
+    background: url('/assets/images/banner/banner-image1.jpg');
+    width: 100%;
+    height: 83vh;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.banner-contents{
+    padding-top: 200px;
+}
+.banner-contents-div h1{
+    text-align: center;
+    font-size: 65px;
+}
+.banner-overlay-color{
+    background-color: rgba(12, 12, 12, 0.54);
+    border-radius: 30px;
+    padding: 20px;
+
+}
+.banner-overlay-color p{
+    font-size: 16px;
+    line-height: 26px;
+}
+.button-div{
+    margin-top: 25px;
+    margin-bottom: 10px;
+
+}
+/* Banner End */
 /* Header Ends */
 
 
+
+/* Achivement Area Start */
+.achivement-area{
+    background-color: #2B4C9E;
+}
+.single-content{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.achivement-container{
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.single-achivement{
+    padding: 80px 0;
+}
+.single-achivement h3{
+    color: #1C40B2;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.single-achivement p{
+    color: #000000;
+    font-weight: 700;
+    margin: 0 0 0 28px;
+    font-size: 16px;
+}
+/* Achivement Area End */
 
 
 /* Footer Start */
