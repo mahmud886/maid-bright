@@ -11,7 +11,7 @@
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                         </button>
-                      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                      <div class="collapse navbar-collapse nav-text" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item dropdown">
                                 <a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown">  About US  </a>
@@ -55,7 +55,7 @@
                     </div>
                   </nav>
             </div>
-            <div class="col-2 col-lg-2 col-md-12 col-sm-12 p-3 head-phone">
+            <div class="col-2 col-lg-2 col-md-12 col-sm-12 pd10 head-phone">
                 <a href="" class="nav-phone">
                     <span class="button-text">+88019XXXXXXXX</span>
                 </a>
