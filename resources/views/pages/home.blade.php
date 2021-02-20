@@ -76,4 +76,87 @@ Maid Bangladesh | Home
     </div>
 {{-- </ Achivement Area End > --}}
 
+{{-- < Exceptional Quality Service Start > --}}
+    <div class="service-area">
+        <div class="service-contaienr">
+            <h2>Exceptional Quality Service</h2>
+            <div class="row">
+                <div class="col-3">
+                    <div class="single-service">
+                        <img src="/assets/images/services/service1.jpg" alt="">
+                        <h4>Housekeeping Serivce</h4>
+                        <p>Between work, family and time for you, it is difficult to keep your space clean.  Maid Bright designed housekeeping services so you can spend more time doing the things you love.</p>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="single-service">
+                        <img src="/assets/images/services/service2.jpg" alt="">
+                        <h4>Recurring Service</h4>
+                        <p>We understand life can be hectic and you may not have time to keep your home tidy let alone do a deeper clean. Maid Bright offers the flexibility to schedule visits every week, every two weeks or monthly.</p>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="single-service">
+                        <img src="/assets/images/services/service3.jpg" alt="">
+                        <h4>Moving Cleaning</h4>
+                        <p>Moving is a stressful event. You have multiple to-do lists leaving you with little to no energy to clean or tidy up your home before or after a move.</p>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="single-service">
+                        <img src="/assets/images/services/service4.jpg" alt="">
+                        <h4>One-Time Cleaning</h4>
+                        <p>Preparing for a family gathering?  Need your home fall or spring cleaned?  Let Maid Bright be your house cleaning go-to. We will deliver the clean your home requires before a special event or occasion.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{{-- < Exceptional Quality Service Start > --}}
+
+{{-- < Maid Cleaning Checklist Start > --}}
+<div class="container">
+    <div class="checklist-services-area">
+        <h2>Maid Bright Cleaning Checklist</h2>
+        <div class="single-checklist">
+            <div class="row">
+                <div class="col-3">
+
+                </div>
+                <div class="col-3 cleaning-margin">
+                   <div class="cleaning-content  cleaning-content1 cleaning-content-bg">
+                    <h3>Bathrooms</h3>
+                   </div>
+                </div>
+                <div class="col-3 cleaning-margin">
+                    <div class="cleaning-content  cleaning-content2 cleaning-content-bg">
+                    <h3>Bathrooms</h3>
+                   </div>
+                </div>
+                <div class="col-3">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-3">
+
+                </div>
+                <div class="col-3 cleaning-margin  mt-5 ">
+                   <div class="cleaning-content  cleaning-content3 cleaning-content-bg">
+                    <h3>Bathrooms</h3>
+                   </div>
+                </div>
+                <div class="col-3 cleaning-margin  mt-5">
+                    <div class="cleaning-content  cleaning-content4 cleaning-content-bg">
+                    <h3>Bathrooms</h3>
+                   </div>
+                </div>
+                <div class="col-3">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{-- </ Maid Cleaning Checklist End > --}}
 @endsection
