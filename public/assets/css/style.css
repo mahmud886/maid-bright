@@ -56,13 +56,14 @@ img{
 }
 .default-button2{
     font-size: 13px;
-    color: #000000;
+    color: blue;
     background-color: #FFE500;
     font-family: 'Roboto', sans-serif;
     padding: 10px 20px;
     border-radius: 15px;
     border: none;
     font-weight: 500;
+    font-size: 16px;
 }
 
 ul li{
