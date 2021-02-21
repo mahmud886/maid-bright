@@ -1,12 +1,12 @@
 <header>
     <div class="container head-nav">
         <div class="row">
-            <div class="col-2 col-lg-2 col-md-6 col-sm-12">
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12">
                 <a href="{{ route('home') }}">
                     <img class="logo" src="{{ asset('/assets/images/maid-bright.svg') }}" alt="Maid Bright">
                 </a>
             </div>
-            <div class="col-8 col-lg-8 col-md-6 col-sm-12">
+            <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <div class="container-fluid">
                         <a class="navbar-brand" href="#"></a>
@@ -60,7 +60,7 @@
                     </div>
                   </nav>
             </div>
-            <div class="col-2 col-lg-2 col-md-12 col-sm-12 pd10 head-phone">
+            <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 pd10 head-phone">
                 <a href="" class="nav-phone">
                     <span class="button-text">+88019XXXXXXXX</span>
                 </a>

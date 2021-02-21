@@ -45,14 +45,16 @@ img{
     background-repeat: no-repeat;
 }
 .default-button1{
-    font-size: 22px;
-    color: #000000;
+    font-size: 18px;
+    color: blue;
     background-color: #FFE500;
     font-family: 'Roboto', sans-serif;
-    padding: 10px 218px;
+    padding: 10px;
     border-radius: 5px;
     display: inline-block;
     border: none;
+    width: 100%;
+    font-weight: bold;
 }
 .default-button2{
     font-size: 13px;

@@ -10,13 +10,20 @@ Maid Bangladesh | Offers
     <div class="container">
         <div class="banner-contents">
             <div class="row">
-                <div class="col-4 banner-overlay-color">
-                    <div class="banner-contents-div">
-                        <h1>Save with Current Offers</h1>
+                <div class="col-50 banner-space">
+                    <div class="banner-overlay-color">
+                        <div class="banner-contents-div">
+                            <h1>Save with Current Offers</h1>
+                        </div>
+                        <p class="text-justify">Whether you’re scheduling your first cleaning or your fourth, take advantage of these Maid Bright promotions.</p>
+                        <div class="button-div">
+                            <button  type="button" class="default-button1"><a href="http://"></a>Contact Us</button>
+                        </div>
                     </div>
-                    <p class="text-justify">Whether you’re scheduling your first cleaning or your fourth, take advantage of these Maid Bright promotions.</p>
-                    <div class="button-div">
-                        <button  type="button" class="default-button1"><a href="http://"></a>Contact Us</button>
+                </div>
+                <div class="col-50 banner-space">
+                    <div class="spaces">
+
                     </div>
                 </div>
             </div>
@@ -63,7 +70,7 @@ Maid Bangladesh | Offers
     <h6>*Mention these offers to the Maid Bright representative. Restrictions may apply.</h6>
     <h3>Don’t delay - Start saving on your next Maid Bright cleaning service today!</h3>
     <div class="button-div">
-        <button  type="button" class="default-button1"><a href="http://"></a>Contact Us</button>
+        <button  type="button" class="default-button1" style="max-width: 30%"><a href="http://"></a>Contact Us</button>
     </div>
 </div>
 
