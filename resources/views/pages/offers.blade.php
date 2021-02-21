@@ -6,7 +6,7 @@ Maid Bangladesh | Offers
 
 @section('content')
 
-<div class="banner-static" style="background: url('/assets/images/banner/offers.jpg');">
+<section class="banner-static" style="background: url('/assets/images/banner/offers.jpg');">
     <div class="container">
         <div class="banner-contents">
             <div class="row">
@@ -22,7 +22,7 @@ Maid Bangladesh | Offers
             </div>
         </div>
     </div>
-</div>
+</section>
 <div class="widget-div">
     <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
