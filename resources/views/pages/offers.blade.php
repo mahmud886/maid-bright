@@ -13,7 +13,7 @@ Maid Bangladesh | Offers
                 <div class="col-50 banner-space">
                     <div class="banner-overlay-color">
                         <div class="banner-contents-div">
-                            <h1>Save with Current Offers</h1>
+                            <h1><b>Save with Current Offers</b></h1>
                         </div>
                         <p class="text-justify">Whether you’re scheduling your first cleaning or your fourth, take advantage of these Maid Bright promotions.</p>
                         <div class="button-div">
