@@ -76,8 +76,29 @@ header {
         background-size: cover !important;
         background-attachment: scroll !important;
 }
+.banner-static2{
+    height: 68vh;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+}
 .banner-space{
     width: 50%;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.banner-space2{
+    width: 70%;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.banner-space3{
+    width: 30%;
     display: flex;
     position: relative;
     flex-wrap: wrap;
@@ -126,4 +147,49 @@ header {
 .contact-div h3{
     color: #2b4c9e;
     font-weight: bold;
+}
+.mid-sec{
+    margin: 50px auto;
+    max-width: 1200px;
+    padding: 50px 0;
+
+}
+.mid-text{
+    text-align: center;
+}
+.text-head{
+    color: #2b4c9e;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.text-p{
+    color: #7a7a7a;
+    padding-bottom: 25px;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: justify;
+}
+.p-head{
+    color: #000;
+    font-family: Georgia,'Times New Roman','Bitstream Charter',Times,serif;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+.mid-img{
+    height: 300px;
+    width: 100%;
+}
+.mission{
+    background-color: #A9DCF5;
+    margin: 50px 0;;
+}
+.text-h4{
+    color: #3a3a3a;
+    font-weight: unset;
+}
+.p-20{
+    padding: 0 20px;
+}
+.professional{
+    padding: 20px;
 }
