@@ -20,6 +20,9 @@ class BaseController extends Controller
     }
 
     // About Us Pages
+    public function company(){
+        return view('pages.aboutus.company');
+    }
     public function whymaidbright(){
         return view('pages.aboutus.why-maid-bright');
     }
@@ -34,6 +37,10 @@ class BaseController extends Controller
     }
 
     // Cleaning Services Pages
+
+    public function cleaningservices(){
+        return view('pages.cleaning-services.cleaning-services');
+    }
     public function housekeepingservices(){
         return view('pages.cleaning-services.house-keeping-services');
     }
@@ -57,6 +64,10 @@ class BaseController extends Controller
     }
 
     // Contact Us Pages
+    
+    public function contact(){
+        return view('pages.contactus.contact');
+    }
     public function schedulecleaning(){
         return view('pages.contactus.schedule-cleaning');
     }

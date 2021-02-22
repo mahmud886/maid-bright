@@ -16,7 +16,7 @@
                       <div class="collapse navbar-collapse nav-text" id="navbarNavDropdown">
                         <ul class="navbar-nav">
                             <li class="nav-item dropdown">
-                                <a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown">  About US  </a>
+                                <a class="nav-link  dropdown-toggle" href="{{ route('company') }}" data-toggle="dropdown">  About US  </a>
                                  <ul class="dropdown-menu">
                                      <li><a class="dropdown-item" href="{{ route('why-maid-bright') }}"> Why Maid Bright </a></li>
                                      <li><a class="dropdown-item" href="{{ route('meet-the-team') }}"> Meet The Team </a></li>
@@ -25,7 +25,7 @@
                                  </ul>
                              </li>
                              <li class="nav-item dropdown">
-                                <a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown">  Cleaning Services  </a>
+                                <a class="nav-link  dropdown-toggle" href="{{ route('cleaning-services') }}" data-toggle="dropdown">  Cleaning Services  </a>
                                  <ul class="dropdown-menu">
                                      <li><a class="dropdown-item" href="{{ route('house-keeping-services') }}"> Housekeeping Services </a></li>
                                      <li><a class="dropdown-item" href="{{ route('recurring-cleaning') }}"> Recurring Cleaning </a></li>
@@ -46,7 +46,7 @@
                             <a class="nav-link" href="{{ route('blog') }}">Blog</a>
                           </li>
                           <li class="nav-item dropdown">
-                            <a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown">  Contact US  </a>
+                            <a class="nav-link  dropdown-toggle" href="{{ route('contact') }}" data-toggle="dropdown">  Contact US  </a>
                              <ul class="dropdown-menu">
                                  <li><a class="dropdown-item" href="{{ route('schedule-cleaning') }}"> Schedule Your Cleaning </a></li>
                                  <li><a class="dropdown-item" href="{{ route('request-estimate') }}"> Request An Estimate </a></li>

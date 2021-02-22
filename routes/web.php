@@ -24,6 +24,7 @@ Route::get('/blog', 'BaseController@blog')->name('blog');
 
 // About Us Pages
 
+Route::get('/company', 'BaseController@company')->name('company');
 Route::get('/aboutus/why-maid-bright', 'BaseController@whymaidbright')->name('why-maid-bright');
 Route::get('/aboutus/meet-the-team', 'BaseController@meettheteam')->name('meet-the-team');
 Route::get('/aboutus/our-testimonials', 'BaseController@ourtestimonials')->name('our-testimonials');
@@ -31,6 +32,7 @@ Route::get('/aboutus/our-videos', 'BaseController@ourvideos')->name('ourvideos')
 
 // Cleaning Services Pages
 
+Route::get('/cleaning-services', 'BaseController@cleaningservices')->name('cleaning-services');
 Route::get('/cleaning-services/house-keeping-services', 'BaseController@housekeepingservices')->name('house-keeping-services');
 Route::get('/cleaning-services/recurring-cleaning', 'BaseController@recurringcleaning')->name('recurring-cleaning');
 Route::get('/cleaning-services/moving-cleaning', 'BaseController@movingcleaning')->name('moving-cleaning');
@@ -41,6 +43,7 @@ Route::get('/cleaning-services/seasonal-cleaning', 'BaseController@seasonalclean
 
 // Contact Us Pages
 
+Route::get('/contact', 'BaseController@contact')->name('contact');
 Route::get('/contactus/schedule-cleaning', 'BaseController@schedulecleaning')->name('schedule-cleaning');
 Route::get('/contactus/request-estimate', 'BaseController@requestestimate')->name('request-estimate');
 Route::get('/contactus/provide-feedback', 'BaseController@providefeedback')->name('provide-feedback');
