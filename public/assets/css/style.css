@@ -46,7 +46,7 @@ img{
 }
 .default-button1{
     font-size: 18px;
-    color: blue;
+    color: #0205ce;
     background-color: #FFE500;
     font-family: 'Roboto', sans-serif;
     padding: 10px;
@@ -58,7 +58,7 @@ img{
 }
 .default-button2{
     font-size: 13px;
-    color: blue;
+    color: #0205ce;
     background-color: #FFE500;
     font-family: 'Roboto', sans-serif;
     padding: 10px 20px;
