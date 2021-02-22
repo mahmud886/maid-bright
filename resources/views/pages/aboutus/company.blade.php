@@ -15,7 +15,7 @@ Maid Bangladesh | About Us
                         <div class="banner-contents-div">
                             <h1><b>Family-Owned and Trusted Since 2004</b></h1>
                         </div>
-                        <p class="text-justify">For more than 17 years, Maid Bright has offered residential cleaning services in the Washington, DC metro area.  Family owned and operated, we are a professional cleaning company specializing in a variety of services ensuring your home is cleaned to your satisfaction.</p>
+                        <p style="text-align: justify">For more than 17 years, Maid Bright has offered residential cleaning services in the Washington, DC metro area.  Family owned and operated, we are a professional cleaning company specializing in a variety of services ensuring your home is cleaned to your satisfaction.</p>
                         <div class="button-div">
                             <button  type="button" class="default-button1"><a href="http://"></a>Schedule A Free Estimate</button>
                         </div>
@@ -72,7 +72,7 @@ Maid Bangladesh | About Us
         </h4>
     </div>
 </section>
-<section class="mid-sec p-20">
+<section class="mid-sec p-lf20">
     <h2 class="text-head mid-text">A Professional Cleaning Team</h2>
     <div class="row">
         <div class="col-5">

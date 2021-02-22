@@ -57,17 +57,16 @@ img{
     font-weight: bold;
 }
 .default-button2{
-    font-size: 13px;
-    color: #0205ce;
+    font-size: 13px !important;
+    color: blue;
     background-color: #FFE500;
     font-family: 'Roboto', sans-serif;
     padding: 10px 20px;
-    border-radius: 15px;
+    border-radius: 30px;
     border: none;
     font-weight: 500;
     font-size: 16px;
 }
-
 ul li{
     list-style-type: none;
 }

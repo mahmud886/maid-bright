@@ -17,7 +17,7 @@ Maid Bangladesh | Home
                             <div class="banner-contents-div">
                                 <h1><b>Let's Get Your Home Cleaned!</b> </h1>
                             </div>
-                            <p class="text-justify">Whether you require a one-time or recurring cleaning for your house or apartment, we’re available to personalize your service based on your needs. Make an appointment with a Maid Bright representative for a free in-home evaluation to discuss how we can customize your cleaning.</p>
+                            <p style="text-align: justify">Whether you require a one-time or recurring cleaning for your house or apartment, we’re available to personalize your service based on your needs. Make an appointment with a Maid Bright representative for a free in-home evaluation to discuss how we can customize your cleaning.</p>
                             <div class="button-div">
                                 <button  type="button" class="default-button1"><a href="http://"></a>Book Your Cleaning</button>
                             </div>

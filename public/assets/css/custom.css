@@ -83,6 +83,13 @@ header {
     background-size: cover !important;
     background-attachment: scroll !important;
 }
+.banner-static3{
+    height: 98vh;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-attachment: scroll !important;
+}
 .banner-space{
     width: 50%;
     display: flex;
@@ -186,10 +193,50 @@ header {
 .text-h4{
     color: #3a3a3a;
     font-weight: unset;
+    line-height: 30px;
 }
-.p-20{
+.p-lf20{
     padding: 0 20px;
+}
+.p-tb20{
+    padding: 20px 0;
+}
+.col25{
+    width: 280px !important;
 }
 .professional{
     padding: 20px;
+}
+.text-works{
+    text-align: center;
+}
+.text-works h2{
+    color: #2b4c9e;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text-works p{
+    color: #7a7a7a;
+}
+.round-icon{
+    border-radius: 50px;
+    fill: #2b4c9e;
+    border-width: 3px !important;
+    border-color: #2b4c9e !important;
+    font-size: 25px;
+    color: #2b4c9e;
+}
+.round-icon i{
+    padding: 20px;
+}
+.cleaning-services{
+    width: 100%;
+}
+.cleaning-services div{
+    margin: 2px 10px;
+    background-color: #fff;
+    padding: 30px 25px 30px 25px;
+}
+.cleaning-services div h2{
+    padding-bottom: 20px;
 }

@@ -15,7 +15,7 @@ Maid Bangladesh | Offers
                         <div class="banner-contents-div">
                             <h1><b>Save with Current Offers</b></h1>
                         </div>
-                        <p class="text-justify">Whether you’re scheduling your first cleaning or your fourth, take advantage of these Maid Bright promotions.</p>
+                        <p style="text-align: justify">Whether you’re scheduling your first cleaning or your fourth, take advantage of these Maid Bright promotions.</p>
                         <div class="button-div">
                             <button  type="button" class="default-button1"><a href="http://"></a>Contact Us</button>
                         </div>
