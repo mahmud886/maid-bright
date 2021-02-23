@@ -46,8 +46,8 @@ img{
 }
 .default-button1{
     font-size: 18px;
-    color: #0205ce;
-    background-color: #FFE500;
+    color: white;
+    background-color: #e84a5f;
     font-family: 'Roboto', sans-serif;
     padding: 10px;
     border-radius: 5px;
@@ -58,8 +58,8 @@ img{
 }
 .default-button2{
     font-size: 13px !important;
-    color: blue;
-    background-color: #FFE500;
+    color: white;
+    background-color: #b80d57;
     font-family: 'Roboto', sans-serif;
     padding: 10px 20px;
     border-radius: 30px;
@@ -124,12 +124,16 @@ ul li a{
 
 /* Achivement Area Start */
 .achivement-area{
-    background-color: #2B4C9E;
+    background-color: #f7941d;
 }
+
 .single-content{
     padding-top: 20px;
     padding-bottom: 10px;
 }
+.single-content p{
+    color:black;
+}        
 .achivement-container{
     width: 95%;
     margin: 0 auto;
@@ -141,7 +145,7 @@ ul li a{
     padding: 80px 0;
 }
 .single-achivement h3{
-    color: #1C40B2;
+    color: #f7941d;
     font-size: 25px;
     font-weight: 700;
 }
@@ -157,7 +161,7 @@ ul li a{
 
 /* Services Area Start */
 .service-area{
-    background-color: #1C40B2;
+    background-color: #f7941d;
     padding: 100px;
 }
 .service-contaienr h2{
@@ -165,6 +169,9 @@ ul li a{
     font-size: 42px;
     font-weight: 700;
     padding-bottom: 20px;
+}
+.service-contaienr p{
+    color:black;
 }
 .single-service {
     padding: 25px;
@@ -190,7 +197,7 @@ ul li a{
     padding: 100px 0;
 }
 .checklist-services-area h2{
-    color: #1C40B2;
+    color: #f7941d;
     font-size: 42px;
     font-weight: 700;
     text-align: center;
@@ -244,7 +251,7 @@ ul li a{
     width: 100%;
     position: relative;
     height: auto;
-    background-color: #001035;
+    background-color: #581c0c;
     padding-top: 120px;
 
   }

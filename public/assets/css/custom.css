@@ -15,7 +15,7 @@ header {
     outline: 0;
 }
 .head-section{
-    background-color: #2b4c9e;
+    background-color: #f7941d;
     text-align: center;
     padding: 5px 0;
 }
@@ -26,13 +26,12 @@ header {
 }
 .logo{
     max-width: 200px;
-   padding-top: 10px;
 }
 .container{
     padding: 20px 0 10px 0;
 }
 .nav-phone{
-    background-color: #2b4c9e;
+    background-color: #f7941d;
     text-align: center;
     border-radius: 40px;
     padding: 10px 20px;
@@ -152,7 +151,7 @@ header {
     text-align: center;
 }
 .text-head{
-    color: #2b4c9e;
+    color: #e45826;
     font-weight: bold;
     padding-bottom: 30px;
 }
@@ -161,7 +160,6 @@ header {
     padding-bottom: 25px;
     font-size: 16px;
     line-height: 32px;
-    text-align: justify;
 }
 .p-head{
     color: #000;
@@ -174,7 +172,7 @@ header {
     width: 100%;
 }
 .mission{
-    background-color: #A9DCF5;
+    background-color: #fcc37e;
     margin: 50px 0;;
 }
 .text-h4{
