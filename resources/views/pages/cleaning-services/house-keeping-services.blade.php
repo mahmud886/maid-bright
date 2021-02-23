@@ -7,7 +7,7 @@ Maid Bangladesh | Cleaning Services
 @section('content')
 
 <section>
-    <div class="row banner-static" style="background: url('/assets/images/banner/offers.jpg');">
+    <div class="row banner-static" style="background: url('/assets/images/banner/housekeeping.jpg');">
         <div class="col-12">
             <div class="container">
                 <div class="row">
