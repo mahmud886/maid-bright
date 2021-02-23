@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12">
                 <a href="{{ route('home') }}">
-                    <img class="logo" src="{{ asset('/assets/images/maid-bright.svg') }}" alt="Maid Bright">
+                    <img class="logo" src="{{ asset('/assets/images/logo.png') }}" alt="Maid Bright">
                 </a>
             </div>
             <div class="col-xl-8 col-lg-8 col-md-6 col-sm-12 col-12">
