@@ -6,11 +6,11 @@ Maid Bangladesh | Cleaning Services
 
 @section('content')
 
-<section class="banner-static3" style="background: url('/assets/images/banner/contact.jpg');">
+<section class="banner-static banner-static3" style="background: url('/assets/images/banner/contact.jpg');">
     <div class="container">
         <div class="banner-contents">
             <div class="row">
-                <div class="col-50 banner-space2">
+                <div class="col-50 banner-space banner-space2">
                     <div class="banner-overlay-color">
                         <div class="banner-contents-div">
                             <h1><b>Our Professional House Cleaning Services</b></h1>
@@ -21,7 +21,7 @@ Maid Bangladesh | Cleaning Services
                         </div>
                     </div>
                 </div>
-                <div class="col-50 banner-space3">
+                <div class="col-50 banner-space banner-space3">
                     <div class="spaces">
 
                     </div>

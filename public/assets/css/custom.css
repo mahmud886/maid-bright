@@ -78,17 +78,12 @@ header {
 }
 .banner-static2{
     height: 68vh;
-    background-position: center center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-    background-attachment: scroll !important;
 }
 .banner-static3{
     height: 98vh;
-    background-position: center center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-    background-attachment: scroll !important;
+}
+.banner-static4{
+    height: 75vh;
 }
 .banner-space{
     width: 50%;
@@ -99,17 +94,9 @@ header {
 }
 .banner-space2{
     width: 70%;
-    display: flex;
-    position: relative;
-    flex-wrap: wrap;
-    align-content: flex-start;
 }
 .banner-space3{
     width: 30%;
-    display: flex;
-    position: relative;
-    flex-wrap: wrap;
-    align-content: flex-start;
 }
 .spaces{
     width: 100%;
@@ -225,9 +212,11 @@ header {
     border-color: #2b4c9e !important;
     font-size: 25px;
     color: #2b4c9e;
+    padding: 6px 10px;
 }
 .round-icon i{
-    padding: 20px;
+    margin: 20px 0;
+    width: 25px;
 }
 .cleaning-services{
     width: 100%;

@@ -6,11 +6,11 @@ Maid Bangladesh | About Us
 
 @section('content')
 
-<section class="banner-static2" style="background: url('/assets/images/banner/company.jpg');">
+<section class="banner-static banner-static2" style="background: url('/assets/images/banner/company.jpg');">
     <div class="container">
         <div class="banner-contents">
             <div class="row">
-                <div class="col-50 banner-space2">
+                <div class="col-50 banner-space banner-space2">
                     <div class="banner-overlay-color">
                         <div class="banner-contents-div">
                             <h1><b>Family-Owned and Trusted Since 2004</b></h1>
@@ -21,7 +21,7 @@ Maid Bangladesh | About Us
                         </div>
                     </div>
                 </div>
-                <div class="col-50 banner-space3">
+                <div class="col-50 banner-space banner-space3">
                     <div class="spaces">
 
                     </div>
