@@ -93,7 +93,8 @@ ul li a {
     background-attachment: fixed;
 }
 .banner-contents {
-    padding-top: 160px;
+    margin: 160px 0;
+    background-attachment: fixed;
 }
 .banner-contents-div h1 {
     text-align: center;

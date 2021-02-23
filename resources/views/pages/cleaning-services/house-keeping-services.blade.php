@@ -6,25 +6,25 @@ Maid Bangladesh | Cleaning Services
 
 @section('content')
 
-<section class="banner-static" style="background: url('/assets/images/banner/offers.jpg');">
-    <div class="container">
-        <div class="banner-contents">
-            <div class="row">
-                <div class="col-50 banner-space banner-space2">
-                    <div class="banner-overlay-color">
-                        <div class="banner-contents-div">
-                            <h1><b>A Cleaning Plan Tailored For You</b></h1>
-                        </div>
-                        <p style="text-align: center">Housekeeping services personalized for your specific needs.</p>
-                        <div class="button-div">
-                            <button  type="button" class="default-button1"><a href="http://"></a>Schedule A Free Estimate</button>
+<section>
+    <div class="row banner-static" style="background: url('/assets/images/banner/offers.jpg');">
+        <div class="col-12">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-11 col-sm-11 col-11">
+                        <div class="banner-contents">
+                            <div class="banner-overlay-color">
+                                <div class="banner-contents-div">
+                                    <h1><b>A Cleaning Plan Tailored For You</b></h1>
+                                </div>
+                                <p style="text-align: center">Housekeeping services personalized for your specific needs.</p>
+                                <div class="button-div">
+                                    <button  type="button" class="default-button1"><a href="http://"></a>Schedule A Free Estimate</button>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-50 banner-space banner-space3">
-                    <div class="spaces">
-
-                    </div>
+                    <div class="col-xl-8 col-lg-8 col-md-1 col-sm-1 col-1"></div>
                 </div>
             </div>
         </div>

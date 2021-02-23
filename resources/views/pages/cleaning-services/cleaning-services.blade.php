@@ -6,25 +6,25 @@ Maid Bangladesh | Cleaning Services
 
 @section('content')
 
-<section class="banner-static banner-static3" style="background: url('/assets/images/banner/contact.jpg');">
-    <div class="container">
-        <div class="banner-contents">
-            <div class="row">
-                <div class="col-50 banner-space banner-space2">
-                    <div class="banner-overlay-color">
-                        <div class="banner-contents-div">
-                            <h1><b>Our Professional House Cleaning Services</b></h1>
-                        </div>
-                        <p style="text-align: justify">Whether you require a one-time or recurring cleaning for your house or apartment, we’re available to personalize your service based on your needs. Make an appointment with a Maid Bright representative for a free in-home evaluation to discuss how we can customize your cleaning.</p>
-                        <div class="button-div">
-                            <button  type="button" class="default-button1"><a href="http://"></a>Schedule A Free Estimate</button>
+<section>
+    <div class="row banner-static" style="background: url('/assets/images/banner/contact.jpg');">
+        <div class="col-12">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-11 col-sm-11 col-11">
+                        <div class="banner-contents">
+                            <div class="banner-overlay-color">
+                                <div class="banner-contents-div">
+                                    <h1><b>Our Professional House Cleaning Services</b></h1>
+                                </div>
+                                <p style="text-align: justify">Whether you require a one-time or recurring cleaning for your house or apartment, we’re available to personalize your service based on your needs. Make an appointment with a Maid Bright representative for a free in-home evaluation to discuss how we can customize your cleaning.</p>
+                                <div class="button-div">
+                                    <button  type="button" class="default-button1"><a href="http://"></a>Schedule A Free Estimate</button>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-50 banner-space banner-space3">
-                    <div class="spaces">
-
-                    </div>
+                    <div class="col-xl-8 col-lg-8 col-md-1 col-sm-1 col-1"></div>
                 </div>
             </div>
         </div>

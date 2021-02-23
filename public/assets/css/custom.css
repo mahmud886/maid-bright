@@ -69,11 +69,10 @@ header {
 }
 
 .banner-static{
-        height: 83vh;
+        
         background-position: center center !important;
         background-repeat: no-repeat !important;
         background-size: cover !important;
-        background-attachment: scroll !important;
 }
 .banner-static2{
     height: 68vh;
