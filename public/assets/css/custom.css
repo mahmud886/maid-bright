@@ -134,11 +134,11 @@ header {
 
 }
 .contact-div{
-    color: #2b4c9e;
+    color: #e45826;
     text-align: center;
 }
 .contact-div h3{
-    color: #2b4c9e;
+    color: #e45826;
     font-weight: bold;
 }
 .mid-sec{
@@ -196,7 +196,7 @@ header {
     text-align: center;
 }
 .text-works h2{
-    color: #2b4c9e;
+    color: #e45826;
     font-size: 30px;
     font-weight: bold;
 }
@@ -205,11 +205,11 @@ header {
 }
 .round-icon{
     border-radius: 50px;
-    fill: #2b4c9e;
+    fill: #e45826;
     border-width: 3px !important;
-    border-color: #2b4c9e !important;
+    border-color: #e45826 !important;
     font-size: 25px;
-    color: #2b4c9e;
+    color: #e45826;
     padding: 6px 10px;
 }
 .round-icon i{
