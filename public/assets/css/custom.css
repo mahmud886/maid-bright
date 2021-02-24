@@ -146,6 +146,12 @@ header {
     padding: 50px 0;
 
 }
+.mid-sec-extend{
+    margin: 50px auto;
+    max-width: 1500px;
+    padding: 50px 0;
+
+}
 .mid-text{
     text-align: center;
 }
