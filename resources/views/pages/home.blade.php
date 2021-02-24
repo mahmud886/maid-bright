@@ -6,32 +6,30 @@ Maid Bangladesh | Home
 
 
 @section('content')
-
-{{-- < Banner Area Start > --}}
-    <div class="banner-area">
-        <div class="container">
-            <div class="banner-contents">
-                <div class="row">
-                    <div class="col-50 banner-spaces">
-                        <div class="col-4 banner-overlay-color">
-                            <div class="banner-contents-div">
-                                <h1><b>Let's Get Your Home Cleaned!</b> </h1>
-                            </div>
-                            <p style="text-align: justify">Whether you require a one-time or recurring cleaning for your house or apartment, we’re available to personalize your service based on your needs. Make an appointment with a Maid Bright representative for a free in-home evaluation to discuss how we can customize your cleaning.</p>
-                            <div class="button-div">
-                                <button  type="button" class="default-button1"><a href="http://"></a>Book Your Cleaning</button>
+    <section class="">
+        <div class="row banner-area">
+            <div class="col-12">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-5 col-lg-5 col-md-11 col-sm-11 col-11">
+                            <div class="banner-contents">
+                                <div class="banner-overlay-color">
+                                    <div class="banner-contents-div">
+                                        <h1><b>Let's Get Your Home Cleaned!</b></h1>
+                                    </div>
+                                    <p style="text-align: justify">Whether you require a one-time or recurring cleaning for your house or apartment, we’re available to personalize your service based on your needs. Make an appointment with a Maid Bright representative for a free in-home evaluation to discuss how we can customize your cleaning.</p>
+                                    <div class="button-div">
+                                        <button  type="button" class="default-button1"><a href="http://"></a>Book Your Cleaning</button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-50 banner-spaces">
-                        <div class="spaces">
-
-                        </div>
+                        <div class="col-xl-7 col-lg-7 col-md-1 col-sm-1 col-1"></div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 {{-- </ Banner Area End > --}}
 
 {{-- < Achivement Area Start > --}}
