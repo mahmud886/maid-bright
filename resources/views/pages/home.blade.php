@@ -37,11 +37,11 @@ Maid Bangladesh | Home
 {{-- < Achivement Area Start > --}}
     <div class="achivement-area">
         <div class="container">
-            <div class="achivement-contents">
+            <div class="achivement-container">
                 <div class="row">
                     <div class="col-8">
                         <div class="single-content">
-                            <p>Proudly serving clients in Northern Virginia, Maryland and Washington D.C.</p>
+                            <p><b>Proudly serving clients in Northern Virginia, Maryland and Washington D.C.</b></p>
                         </div>
                     </div>
                     <div class="col-4">
