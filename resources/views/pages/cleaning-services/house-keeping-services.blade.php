@@ -11,7 +11,7 @@ Maid Bangladesh | Cleaning Services
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-11 col-sm-11 col-11">
+                    <div class="col-xl-6 col-lg-6 col-md-11 col-sm-11 col-11">
                         <div class="banner-contents">
                             <div class="banner-overlay-color">
                                 <div class="banner-contents-div">
@@ -24,7 +24,7 @@ Maid Bangladesh | Cleaning Services
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-8 col-lg-8 col-md-1 col-sm-1 col-1"></div>
+                    <div class="col-xl-6 col-lg-6 col-md-1 col-sm-1 col-1"></div>
                 </div>
             </div>
         </div>

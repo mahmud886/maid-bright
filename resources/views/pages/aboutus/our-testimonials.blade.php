@@ -8,32 +8,25 @@ Maid Bangladesh | About Us
 
 
 <!-- < Testimonial Banner Start > -->
-<section class="testimonial-area">
-    <div class="row">
-        <div class="col-12 col">
-            <div class="banner-static why-maid1" style="background: url('/assets/images/banner/banner-image1.jpg');">
-                <div class="container">
-                    <div class="banner-contents">
-                        <div class="row">
-                            <div class="col-50 banner-space banner-space2">
-                                <div class="banner-overlay-color">
-                                    <div class="banner-contents-div">
-                                        <h1><b>Meet Our Team</b></h1>
-                                    </div>
-                                    <p style="text-align: justify">Get to know the wonderful office staff who oversee
-                                        Maid Bright’s
-                                        operations and are responsible for our superior reputation and award-winning
-                                        service.</p>
-
+<section>
+    <div class="row banner-static" style="background: url('/assets/images/banner/testimonial.jpg');">
+        <div class="col-12">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-11 col-sm-11 col-11">
+                        <div class="banner-contents">
+                            <div class="banner-overlay-color">
+                                <div class="banner-contents-div">
+                                    <h1><b>Customer Testimonials</b></h1>
                                 </div>
-                            </div>
-                            <div class="col-50 banner-space banner-space3">
-                                <div class="spaces">
-
+                                <p style="text-align: center">See what our regular or new customers have to say about using out cleaning services</p>
+                                <div class="button-div">
+                                    <button  type="button" class="default-button1"><a href="http://"></a>Schedule A Free Estimate</button>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-xl-8 col-lg-8 col-md-1 col-sm-1 col-1"></div>
                 </div>
             </div>
         </div>

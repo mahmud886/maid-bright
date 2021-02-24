@@ -7,7 +7,7 @@ Maid Bangladesh | About Us
 @section('content')
 
 <section>
-    <div class="row banner-static" style="background: url('/assets/images/aboutus/whymaid1.jpg');">
+    <div class="row banner-static" style="background: url('/assets/images/banner/whymaid1.jpg');">
         <div class="col-12">
             <div class="container">
                 <div class="row">
