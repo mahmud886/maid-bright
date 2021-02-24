@@ -312,8 +312,10 @@ ul li a {
 .testimonial-image-main-content {
     padding: 20px 0;
 }
-.testimonial-image-main-content h5,
-p {
+.testimonial-image-main-content h5 {
+    color: #2b4c9e;
+}
+.testimonial-image-main-content p {
     color: #2b4c9e;
 }
 
