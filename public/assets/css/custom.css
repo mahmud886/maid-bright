@@ -237,3 +237,11 @@ header {
     font-size: 30px;
     font-weight: unset;
 }
+.img-group{
+}
+.img-group img{
+    border-color: #f7941d;
+    border-width: 4px;
+    border-style: solid;
+    margin: 8px;
+}

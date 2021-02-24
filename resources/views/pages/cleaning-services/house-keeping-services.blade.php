@@ -108,6 +108,45 @@ Maid Bangladesh | Cleaning Services
             <P class="text-p">Our maid and housekeeping services are timely, professional, and dedicated to your complete satisfaction. Whether we have the pleasure of partnering with you for a one-time cleaning event or provide housekeeping services each week, you can count on the same incredible level of quality.</P>
             <P class="text-p">For more than 17 years, we’ve set ourselves apart for clients across Virginia and Maryland. We’re known for being a cut above the competition and a go-to service for clients throughout the community. Here’s why.</P>
         </div>
+        <div class="text-left">
+            <h3 class="text-head">We Offer Free Estimates</h3>
+            <p class="text-p">We strive to offer a transparent service without any surprises along the way. At the beginning of our process, one of our team members will assess your home, answer your questions, and provide a no-obligation quote upfront.</p>
+        </div>
+        <div class="text-left">
+            <h3 class="text-head">We're Committed to Your Satisfaction</h3>
+            <p class="text-p">We believe in the service we provide — and more than 17 years’ worth of satisfied customers would say the same. To continue upholding a rigorous standard of excellence, we offer a 100% satisfaction guarantee to every client. If you’re not completely satisfied, simply let us know within 24 hours of your cleaning. We will remedy the situation at no additional cost.</p>
+        </div>
+        <div class="text-left">
+            <h3 class="text-head">We Go Green Every Day</h3>
+            <p class="text-p">Maid Bright is committed to using effective yet environmentally friendly products that are safe for the whole family, including your pets. You can breathe easy knowing that your air has never been fresher or safer — both for you and for our planet.</p>
+        </div>
+        <div class="text-left">
+            <h3 class="text-head">We're Always Looking for Ways to Go Above and Beyond</h3>
+            <p class="text-p">At Maid Bright, our cleaning services housekeeping maids are not interested in cutting corners. We’re fully dedicated to providing the most thorough service possible — including going above and beyond to clean spaces you may not even think of. Visible dust is a no-brainer fix, but we’ll also do a proper cleaning of out-of-sight areas during each and every visit.</p>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="mid-sec">
+        <div class="mid-text">
+            <h2 class="text-head">Interested in housekeeping services?<br>
+                Make an appointment for a free in-home estimate today.
+            </h2>
+            <div class="button-div">
+                <button  type="button" class="default-button1" style="max-width: 50%"><a href=""></a>Schedule Now</button>
+            </div>
+        </div>
+    </div>
+    <div class="mid-sec">
+        <div class="row">
+            <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 img-group">
+                <img src="{{ asset('/assets/images/services/service6.jpg') }}" alt="">
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 img-group">
+                <img src="{{ asset('/assets/images/services/service5.jpg') }}" alt="">
+                <img src="{{ asset('/assets/images/services/service7.jpg') }}" alt="">
+            </div>
+        </div>
     </div>
 </section>
 @endsection
