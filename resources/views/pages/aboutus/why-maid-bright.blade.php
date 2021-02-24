@@ -6,35 +6,30 @@ Maid Bangladesh | About Us
 
 @section('content')
 
-<section class="banner-static why-maid1" style="background: url('/assets/images/aboutus/whymaid1.jpg');">
-    <div class="container">
-        <div class="banner-contents">
-            <div class="row">
-                <div class="col-50 banner-space banner-space2">
-                    <div class="banner-overlay-color">
-                        <div class="banner-contents-div">
-                            <h1><b>Family-Owned and Trusted Since 2004</b></h1>
-                        </div>
-                        <p style="text-align: justify">For more than 17 years, Maid Bright has offered residential
-                            cleaning services in the Washington, DC metro area. Family owned and operated, we are a
-                            professional cleaning company specializing in a variety of services ensuring your home is
-                            cleaned to your satisfaction.</p>
-                        <div class="button-div">
-                            <button type="button" class="default-button1"><a href="http://"></a>Schedule A Free
-                                Estimate</button>
+<section>
+    <div class="row banner-static" style="background: url('/assets/images/aboutus/whymaid1.jpg');">
+        <div class="col-12">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-11 col-sm-11 col-11">
+                        <div class="banner-contents">
+                            <div class="banner-overlay-color">
+                                <div class="banner-contents-div">
+                                    <h1><b>Experience The Maid Bright Difference</b></h1>
+                                </div>
+                                <p style="text-align: justify">We treat all customers as part of our growing family in the Northern Virginia, DC and Maryland area.  That is why every visit is just as important as the first.  Our continuous strive for excellence gives us an edge and is the reason we are a highly recommended and award-winning home cleaning service.  Don’t just take our word – schedule your free estimate as a first step in joining the Maid Bright family.</p>
+                                <div class="button-div">
+                                    <button  type="button" class="default-button1"><a href="http://"></a>Schedule A Free Estimate</button>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-50 banner-space banner-space3">
-                    <div class="spaces">
-
-                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-1 col-sm-1 col-1"></div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
 <div class="why-maid-container">
     <div class="why-maid-contents">
         <div class="why-maid-first-content">
