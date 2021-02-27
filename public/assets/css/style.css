@@ -18,28 +18,28 @@ p {
 }
 h1 {
     font-size: 60px;
-    color: #ffffff;
+    color: #000000;
 }
 
 h2 {
     font-size: 42px;
-    color: #ffffff;
+    color: #000000;
 }
 h4 {
     font-size: 20px;
-    color: #ffffff;
+    color: #000000;
 }
 h3 {
     font-size: 25px;
-    color: #ffffff;
+    color: #000000;
 }
 h5 {
     font-size: 18px;
-    color: #ffffff;
+    color: #000000;
 }
 p {
     font-size: 16px;
-    color: #ededed;
+    color: #7a7a7a;
 }
 span {
     font-size: 22px;
@@ -389,6 +389,33 @@ ul li a {
     font-size: 35px;
     font-weight: 600;
 }
+
+.moving-cleaning-container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.button-inner-paragraphp {
+    margin: 50px 0;
+}
+.moving-cleaning-contents p {
+    padding-bottom: 15px;
+}
+.moving-cleaning-contents h3 {
+    font-size: 30px;
+    color: #1c40b2;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+.main-container li {
+    list-style-type: disc !important;
+    color: #7a7a7a;
+}
+.footer-content h3 {
+    font-size: 35px;
+    font-weight: 600;
+}
+
 /* Cleaning End */
 
 /* Footer Start */
