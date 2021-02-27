@@ -18,24 +18,24 @@ p {
 }
 h1 {
     font-size: 60px;
-    color: #000000;
+    color: #ffffff;
 }
 
 h2 {
     font-size: 42px;
-    color: #000000;
+    color: #ffffff;
 }
 h4 {
     font-size: 20px;
-    color: #000000;
+    color: #ffffff;
 }
 h3 {
     font-size: 25px;
-    color: #000000;
+    color: #ffffff;
 }
 h5 {
     font-size: 18px;
-    color: #000000;
+    color: #ffffff;
 }
 p {
     font-size: 16px;
@@ -416,7 +416,60 @@ ul li a {
     font-weight: 600;
 }
 
+.one-time-cleaning-container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.one-time-cleaning-container h2 {
+    color: #1c40b2;
+    font-size: 35px;
+}
+.one-time-cleaning-single h3 {
+    color: #1c40b2;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
 /* Cleaning End */
+
+/* Blog Start */
+.blog-header-container {
+}
+.blog-header-container h1 {
+    color: #1c40b2;
+    font-size: 35px;
+    line-height: 50px;
+}
+.blog-header-title {
+    padding-top: 50px;
+    margin: 50px 150px;
+}
+.search-box-container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.input-group {
+    padding: 20px;
+}
+.input-group input[type="text"] {
+    padding: 13px;
+}
+.search-btn {
+    padding: 13px;
+}
+.blog-card-content h3 {
+    font-size: 21px;
+    text-decoration: none;
+}
+.blog-card-content h3 a {
+    text-decoration: none;
+    color: #000000;
+}
+.blog-footer-button a {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+/* Blog End */
 
 /* Footer Start */
 .footer-area {
