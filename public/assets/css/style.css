@@ -471,6 +471,72 @@ ul li a {
 
 /* Blog End */
 
+/* Contact Us Start*/
+
+.contact-us-banner {
+    background-image: url("/assets/images/contactus/banner1.jpg");
+    min-width: 1200px;
+    min-height: 100vh;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact-us-form {
+    padding-top: 150px;
+}
+.contact-us-banner-content {
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(12, 12, 12, 0.54);
+    border-radius: 30px;
+    padding: 20px;
+}
+.contact-us-banner-content h2 {
+    font-size: 65px;
+    font-weight: 600;
+}
+.contact-us-banner-content p {
+    color: #ffffff;
+}
+.form-container {
+    width: 90%;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.form-container p span {
+    color: red;
+}
+.form-content {
+    width: 90%;
+    margin: 0 auto;
+}
+input[type="text"],
+[type="email"],
+[type="phone"] {
+    padding: 10px;
+}
+.form-footer {
+    background-color: #13334d;
+    border-bottom-right-radius: 6px;
+}
+
+.footer-content-para {
+    background-color: #000000;
+    border-radius: 5px;
+}
+.footer-content-para p {
+    font-size: 12px;
+    padding: 10px;
+}
+.footer-content-button a {
+    text-decoration: none;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+/* Contact Us Start*/
+
 /* Footer Start */
 .footer-area {
     font-family: "Roboto", sans-serif;
